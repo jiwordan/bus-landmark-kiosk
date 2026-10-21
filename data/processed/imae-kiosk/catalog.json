@@ -1,0 +1,140 @@
+{
+  "dataDate": "2026-10-16",
+  "defaultStationId": "206000305",
+  "stations": [
+    {
+      "stationId": "206000305",
+      "mobileNo": "07159",
+      "name": "성남역.이매고교.아름마을.효성선경아파트",
+      "nextStopName": "이매촌안말초교.성지아파트"
+    },
+    {
+      "stationId": "206000314",
+      "mobileNo": "07303",
+      "name": "성남역.이매고교.아름마을.효성선경아파트",
+      "nextStopName": "매송중학교.풍림아파트"
+    }
+  ],
+  "routes": [
+    {
+      "routeId": "204000017",
+      "routeNumber": "55",
+      "startName": "(임시)금토동삼거리",
+      "endName": "남위례역수자인센트럴.엘리프남위례역에듀포레",
+      "detailAvailable": true,
+      "shapeAvailable": true,
+      "stations": [
+        {
+          "stationId": "206000305",
+          "visitKey": "204000017:111",
+          "nextStopName": "이매촌안말초교.성지아파트"
+        },
+        {
+          "stationId": "206000314",
+          "visitKey": "204000017:15",
+          "nextStopName": "매송중학교.풍림아파트"
+        }
+      ]
+    },
+    {
+      "routeId": "204000182",
+      "routeNumber": "351",
+      "startName": "구미동차고지앞",
+      "endName": "(임시)금토동삼거리",
+      "detailAvailable": true,
+      "shapeAvailable": true,
+      "stations": [
+        {
+          "stationId": "206000305",
+          "visitKey": "204000182:58",
+          "nextStopName": "이매촌안말초교.성지아파트"
+        },
+        {
+          "stationId": "206000314",
+          "visitKey": "204000182:25",
+          "nextStopName": "매송중학교.풍림아파트"
+        }
+      ]
+    },
+    {
+      "routeId": "107000008",
+      "routeNumber": "422",
+      "startName": "구미동차고지앞",
+      "endName": "중곡역.국립정신건강센터",
+      "detailAvailable": false,
+      "shapeAvailable": true,
+      "stations": [
+        {
+          "stationId": "206000305",
+          "visitKey": "107000008:98",
+          "nextStopName": "이매촌안말초교.성지아파트"
+        },
+        {
+          "stationId": "206000314",
+          "visitKey": "107000008:18",
+          "nextStopName": "매송중학교.풍림아파트"
+        }
+      ]
+    },
+    {
+      "routeId": "204000024",
+      "routeNumber": "9407",
+      "startName": "구미동차고지앞",
+      "endName": "ST송은빌딩",
+      "detailAvailable": true,
+      "shapeAvailable": true,
+      "stations": [
+        {
+          "stationId": "206000305",
+          "visitKey": "204000024:76",
+          "nextStopName": "이매촌안말초교.성지아파트"
+        },
+        {
+          "stationId": "206000314",
+          "visitKey": "204000024:27",
+          "nextStopName": "매송중학교.풍림아파트"
+        }
+      ]
+    },
+    {
+      "routeId": "204000155",
+      "routeNumber": "누리4",
+      "startName": "사송동.종점",
+      "endName": "동원동",
+      "detailAvailable": true,
+      "shapeAvailable": true,
+      "stations": [
+        {
+          "stationId": "206000305",
+          "visitKey": "204000155:12",
+          "nextStopName": "이매촌안말초교.성지아파트"
+        },
+        {
+          "stationId": "206000314",
+          "visitKey": "204000155:68",
+          "nextStopName": "매송중학교.풍림아파트"
+        }
+      ]
+    },
+    {
+      "routeId": "241215002",
+      "routeNumber": "3-1",
+      "startName": "센트럴타운3단지",
+      "endName": "AK플라자2층",
+      "detailAvailable": true,
+      "shapeAvailable": true,
+      "stations": [
+        {
+          "stationId": "206000305",
+          "visitKey": "241215002:14",
+          "nextStopName": "이매촌안말초교.성지아파트"
+        },
+        {
+          "stationId": "206000314",
+          "visitKey": "241215002:36",
+          "nextStopName": "매송중학교.풍림아파트"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+﻿route_id,visit_key,station_id,station_seq,station_name,turn_seq,turn_yn,facility_id,facility_name,category,distance_m,within_200m,within_300m,within_500m,distance_status,access_review
+241215002,241215002:1,205000273,1,센트럴타운3단지,25,N,15021148:B000009214,야탑중학교,학교,282.59781070856377,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:1,205000273,1,센트럴타운3단지,25,N,15021148:B000024195,성남여수초등학교,학교,199.45521932716034,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:1,205000273,1,센트럴타운3단지,25,N,15012890:955c605af7033f0f,여수지구4호(여수울)공원,공원 후보,312.50842938735946,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:1,205000273,1,센트럴타운3단지,25,N,15013117:33b89feecc3b82da,성남시청,공공기관,453.6137054632199,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:2,205000361,2,여수초등학교,25,N,15021148:B000009214,야탑중학교,학교,313.95043632394044,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:2,205000361,2,여수초등학교,25,N,15021148:B000024195,성남여수초등학교,학교,90.23321023571795,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:2,205000361,2,여수초등학교,25,N,15012890:955c605af7033f0f,여수지구4호(여수울)공원,공원 후보,291.5973534616376,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:3,205000274,3,연꽃마을4단지,25,N,15021148:B000009214,야탑중학교,학교,340.2414417001211,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:3,205000274,3,연꽃마을4단지,25,N,15021148:B000024195,성남여수초등학교,학교,133.70081732229542,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:3,205000274,3,연꽃마을4단지,25,N,15012890:955c605af7033f0f,여수지구4호(여수울)공원,공원 후보,346.4248725012732,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:4,205000362,4,여수동입구,25,N,15021148:B000009214,야탑중학교,학교,254.98828792028317,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:4,205000362,4,여수동입구,25,N,15021148:B000024195,성남여수초등학교,학교,270.0893620645113,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:4,205000362,4,여수동입구,25,N,15012890:955c605af7033f0f,여수지구4호(여수울)공원,공원 후보,484.1786272389916,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:5,205000173,5,야탑중학교,25,N,15021148:B000009214,야탑중학교,학교,110.87944381001068,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:5,205000173,5,야탑중학교,25,N,15021148:B000024195,성남여수초등학교,학교,292.9118715690769,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:5,205000173,5,야탑중학교,25,N,15012890:955c605af7033f0f,여수지구4호(여수울)공원,공원 후보,474.07649763941015,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:6,206000361,6,동부.코오롱아파트,25,N,15021148:B000003762,야탑초등학교,학교,267.9076268605099,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:6,206000361,6,동부.코오롱아파트,25,N,15021148:B000009214,야탑중학교,학교,241.54599960667548,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:7,206000157,7,야탑역.종합버스터미널(전면),25,N,15021148:B000003769,하탑초등학교,학교,484.40600425164877,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:7,206000157,7,야탑역.종합버스터미널(전면),25,N,15021148:B000003768,돌마초등학교,학교,306.4594639441359,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:7,206000157,7,야탑역.종합버스터미널(전면),25,N,15013205:15da31030906a19b,야탑역,도시철도역,17.82749818951897,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:8,206000258,8,야탑2동행정복지센터.차병원,25,N,15021148:B000003769,하탑초등학교,학교,293.73203731745195,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:8,206000258,8,야탑2동행정복지센터.차병원,25,N,15021148:B000003768,돌마초등학교,학교,337.47949580176237,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:8,206000258,8,야탑2동행정복지센터.차병원,25,N,15017323:6c07edff2224c60b,디자인코리아뮤지엄,박물관·미술관,489.3097761543623,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:8,206000258,8,야탑2동행정복지센터.차병원,25,N,15013205:15da31030906a19b,야탑역,도시철도역,228.32852129354876,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:9,206000274,9,탑마을대우아파트.선경아파트,25,N,15021148:B000003769,하탑초등학교,학교,300.1469941589051,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:10,206000308,10,아름마을,25,N,15021148:B000003769,하탑초등학교,학교,418.33058160880626,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:10,206000308,10,아름마을,25,N,15021148:B000003753,성남매송초등학교,학교,277.9472639266146,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:10,206000308,10,아름마을,25,N,15021148:B000009215,이매중학교,학교,373.12556631595515,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:11,206000307,11,매송초교.아름마을,25,N,15021148:B000003753,성남매송초등학교,학교,103.76350184881657,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:11,206000307,11,매송초교.아름마을,25,N,15021148:B000009215,이매중학교,학교,227.50158206242625,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:12,206000439,12,아름마을.방아다리사거리,25,N,15021148:B000003763,이매초등학교,학교,403.53704067725715,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:12,206000439,12,아름마을.방아다리사거리,25,N,15021148:B000009209,매송중학교,학교,353.56971109040796,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:12,206000439,12,아름마을.방아다리사거리,25,N,15021148:B000003753,성남매송초등학교,학교,268.49012902251525,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:12,206000439,12,아름마을.방아다리사거리,25,N,15021148:B000009215,이매중학교,학교,320.98360249894597,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:13,206000306,13,매송중학교.풍림아파트,25,N,15021148:B000003763,이매초등학교,학교,275.81518687761974,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:13,206000306,13,매송중학교.풍림아파트,25,N,15021148:B000009209,매송중학교,학교,99.68394580024832,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:13,206000306,13,매송중학교.풍림아파트,25,N,15013205:e262eb86fe13fbfa,이매역,도시철도역,472.7180063426867,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:14,206000305,14,성남역.이매고교.아름마을.효성선경아파트,25,N,15021148:B000003763,이매초등학교,학교,332.6404406383126,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:14,206000305,14,성남역.이매고교.아름마을.효성선경아파트,25,N,15021148:B000009209,매송중학교,학교,141.43598307609395,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:14,206000305,14,성남역.이매고교.아름마을.효성선경아파트,25,N,15021148:B000012459,이매고등학교,학교,405.4243718645367,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:14,206000305,14,성남역.이매고교.아름마을.효성선경아파트,25,N,15021148:B000003740,안말초등학교,학교,341.7989000514753,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:14,206000305,14,성남역.이매고교.아름마을.효성선경아파트,25,N,15013205:e262eb86fe13fbfa,이매역,도시철도역,429.5270368393256,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:15,206000762,15,이매촌안말초교.성지아파트,25,N,15021148:B000003763,이매초등학교,학교,371.69039420235265,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:15,206000762,15,이매촌안말초교.성지아파트,25,N,15021148:B000009209,매송중학교,학교,345.1908794831561,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:15,206000762,15,이매촌안말초교.성지아파트,25,N,15021148:B000012459,이매고등학교,학교,420.2827635340873,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:15,206000762,15,이매촌안말초교.성지아파트,25,N,15021148:B000003740,안말초등학교,학교,115.68212950143155,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:15,206000762,15,이매촌안말초교.성지아파트,25,N,15013205:e262eb86fe13fbfa,이매역,도시철도역,335.62829754238504,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:16,206000768,16,동부코오롱아파트,25,N,15021148:B000012459,이매고등학교,학교,446.5499700787779,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:16,206000768,16,동부코오롱아파트,25,N,15021148:B000003740,안말초등학교,학교,233.31352407290126,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:16,206000768,16,동부코오롱아파트,25,N,15012890:8c25aac485ced224,서현공원,공원 후보,364.57946932406736,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:17,206000759,17,금강.한신아파트,25,N,15021148:B000012459,이매고등학교,학교,443.4493835279089,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:17,206000759,17,금강.한신아파트,25,N,15021148:B000003740,안말초등학교,학교,408.7941214288038,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:17,206000759,17,금강.한신아파트,25,N,15012890:8c25aac485ced224,서현공원,공원 후보,455.0082820323797,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:17,206000759,17,금강.한신아파트,25,N,15012894:92415e97518e590d,코코프라자시장,전통시장,423.55795250259507,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:18,206000239,18,이매촌한신.서현역.AK프라자,25,N,15012894:92415e97518e590d,코코프라자시장,전통시장,273.1092237467282,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:18,206000239,18,이매촌한신.서현역.AK프라자,25,N,15013205:601aa1510eb86cfe,서현역,도시철도역,386.38676859500816,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:19,206000618,19,이매촌한신.서현역.AK프라자,25,N,15012894:92415e97518e590d,코코프라자시장,전통시장,193.62213227018518,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:19,206000618,19,이매촌한신.서현역.AK프라자,25,N,15013205:601aa1510eb86cfe,서현역,도시철도역,313.785994822763,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:20,206000645,20,서현역.서현고가차도,25,N,15021148:B000012463,서현고등학교,학교,256.7328323699022,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:20,206000645,20,서현역.서현고가차도,25,N,15021148:B000003760,서현초등학교,학교,414.3774760364729,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:20,206000645,20,서현역.서현고가차도,25,N,15012894:92415e97518e590d,코코프라자시장,전통시장,157.94372642501486,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:20,206000645,20,서현역.서현고가차도,25,N,15013205:601aa1510eb86cfe,서현역,도시철도역,123.177336648613,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:21,206000379,21,서현고등학교,25,N,15021148:B000012463,서현고등학교,학교,199.26198248237137,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:21,206000379,21,서현고등학교,25,N,15012890:e5741108104600ca,중앙공원,공원 후보,195.30943971791731,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:21,206000379,21,서현고등학교,25,N,15013205:601aa1510eb86cfe,서현역,도시철도역,490.95859471998784,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:21,206000379,21,서현고등학교,25,N,15013117:c523384484f0ae67,분당구청,공공기관,455.21260539047125,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:22,206000915,22,한양아파트정문,25,N,15021148:B000012463,서현고등학교,학교,446.27009799743615,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:22,206000915,22,한양아파트정문,25,N,15021148:B000003760,서현초등학교,학교,336.14295911215436,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:22,206000915,22,한양아파트정문,25,N,15021148:B000003761,분당초등학교,학교,174.06545683538283,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:22,206000915,22,한양아파트정문,25,N,15012894:a9e475d6cc64ce5e,현대시장(분당),전통시장,202.60658222406178,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:22,206000915,22,한양아파트정문,25,N,15012894:9022fcc56614f5bc,분당우성시장,전통시장,427.61058980836185,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:23,206000431,23,올림픽스포츠센터,25,N,15021148:B000012463,서현고등학교,학교,465.0174720214917,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:23,206000431,23,올림픽스포츠센터,25,N,15021148:B000009212,서현중학교,학교,388.2264188654888,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:23,206000431,23,올림픽스포츠센터,25,N,15021148:B000003760,서현초등학교,학교,155.99354652850698,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:23,206000431,23,올림픽스포츠센터,25,N,15021148:B000003761,분당초등학교,학교,257.38330120264277,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:23,206000431,23,올림픽스포츠센터,25,N,15013109:367bc984b0f413a4,서현도서관,공공도서관,383.4360308491037,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:23,206000431,23,올림픽스포츠센터,25,N,15012894:a9e475d6cc64ce5e,현대시장(분당),전통시장,194.4319496344231,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:23,206000431,23,올림픽스포츠센터,25,N,15012894:9022fcc56614f5bc,분당우성시장,전통시장,444.40875446520954,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:24,206000434,24,서현문화의집,25,N,15021148:B000012463,서현고등학교,학교,252.61706234334213,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:24,206000434,24,서현문화의집,25,N,15021148:B000003760,서현초등학교,학교,151.01432524345893,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:24,206000434,24,서현문화의집,25,N,15021148:B000003761,분당초등학교,학교,484.9178894374588,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:24,206000434,24,서현문화의집,25,N,15012894:92415e97518e590d,코코프라자시장,전통시장,429.1887476327986,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:24,206000434,24,서현문화의집,25,N,15012894:a9e475d6cc64ce5e,현대시장(분당),전통시장,445.3619433842118,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:24,206000434,24,서현문화의집,25,N,15013205:601aa1510eb86cfe,서현역,도시철도역,402.30784979390523,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:25,206000436,25,AK플라자2층,25,Y,15021148:B000012463,서현고등학교,학교,261.71978552246753,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:25,206000436,25,AK플라자2층,25,Y,15021148:B000003760,서현초등학교,학교,474.46987485504917,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:25,206000436,25,AK플라자2층,25,Y,15012894:92415e97518e590d,코코프라자시장,전통시장,145.95829412962337,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:25,206000436,25,AK플라자2층,25,Y,15013205:601aa1510eb86cfe,서현역,도시철도역,63.33176477704918,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:25,206000436,25,AK플라자2층,25,Y,15013117:c523384484f0ae67,분당구청,공공기관,479.1430535615539,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:26,206000435,26,한양아파트,25,N,15021148:B000012463,서현고등학교,학교,110.57632243769571,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:26,206000435,26,한양아파트,25,N,15021148:B000003760,서현초등학교,학교,336.6662960768074,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:26,206000435,26,한양아파트,25,N,15012890:e5741108104600ca,중앙공원,공원 후보,440.5254157130432,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:26,206000435,26,한양아파트,25,N,15012894:92415e97518e590d,코코프라자시장,전통시장,321.67892545310286,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:26,206000435,26,한양아파트,25,N,15013205:601aa1510eb86cfe,서현역,도시철도역,250.80703604651504,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:27,206000433,27,서현1동행정복지센터,25,N,15021148:B000012463,서현고등학교,학교,177.86519476095532,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:27,206000433,27,서현1동행정복지센터,25,N,15021148:B000003760,서현초등학교,학교,230.5189740228139,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:27,206000433,27,서현1동행정복지센터,25,N,15021148:B000003761,분당초등학교,학교,463.3910796917683,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:27,206000433,27,서현1동행정복지센터,25,N,15012890:e5741108104600ca,중앙공원,공원 후보,469.7693205945226,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:27,206000433,27,서현1동행정복지센터,25,N,15012894:92415e97518e590d,코코프라자시장,전통시장,466.7565482863039,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:27,206000433,27,서현1동행정복지센터,25,N,15012894:a9e475d6cc64ce5e,현대시장(분당),전통시장,443.7037364122115,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:27,206000433,27,서현1동행정복지센터,25,N,15013205:601aa1510eb86cfe,서현역,도시철도역,410.70648290291706,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:28,206000455,28,시범상가,25,N,15021148:B000012463,서현고등학교,학교,377.9321818968208,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:28,206000455,28,시범상가,25,N,15021148:B000009212,서현중학교,학교,488.8495742879077,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:28,206000455,28,시범상가,25,N,15021148:B000003760,서현초등학교,학교,192.61840225688132,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:28,206000455,28,시범상가,25,N,15021148:B000003761,분당초등학교,학교,260.12163910164656,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:28,206000455,28,시범상가,25,N,15013109:367bc984b0f413a4,서현도서관,공공도서관,490.27627471126317,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:28,206000455,28,시범상가,25,N,15012894:a9e475d6cc64ce5e,현대시장(분당),전통시장,233.47665368598635,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:28,206000455,28,시범상가,25,N,15012894:9022fcc56614f5bc,분당우성시장,전통시장,491.1469374328914,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:29,206000767,29,한양아파트정문,25,N,15021148:B000012463,서현고등학교,학교,417.2023117370237,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:29,206000767,29,한양아파트정문,25,N,15021148:B000003760,서현초등학교,학교,316.25661938756434,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:29,206000767,29,한양아파트정문,25,N,15021148:B000003761,분당초등학교,학교,200.33173604792907,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:29,206000767,29,한양아파트정문,25,N,15012894:a9e475d6cc64ce5e,현대시장(분당),전통시장,220.2947125334397,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:29,206000767,29,한양아파트정문,25,N,15012894:9022fcc56614f5bc,분당우성시장,전통시장,453.1985358151341,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:30,206000380,30,서현고등학교,25,N,15021148:B000012463,서현고등학교,학교,170.65599000143845,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:30,206000380,30,서현고등학교,25,N,15021148:B000003760,서현초등학교,학교,477.13529059622334,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:30,206000380,30,서현고등학교,25,N,15012890:e5741108104600ca,중앙공원,공원 후보,226.57029768713366,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:30,206000380,30,서현고등학교,25,N,15013205:601aa1510eb86cfe,서현역,도시철도역,470.1778996762771,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:30,206000380,30,서현고등학교,25,N,15013117:c523384484f0ae67,분당구청,공공기관,468.8783305297987,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:31,206000601,31,분당구청.서현역,25,N,15021148:B000012463,서현고등학교,학교,325.79476430094445,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:31,206000601,31,분당구청.서현역,25,N,15012890:2af394d32a8945ee,황새울공원,공원 후보,225.1058646312208,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:31,206000601,31,분당구청.서현역,25,N,15012890:e5741108104600ca,중앙공원,공원 후보,347.2993631460191,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:31,206000601,31,분당구청.서현역,25,N,15012894:92415e97518e590d,코코프라자시장,전통시장,403.8912181981357,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:31,206000601,31,분당구청.서현역,25,N,15013205:601aa1510eb86cfe,서현역,도시철도역,283.49504301227853,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:31,206000601,31,분당구청.서현역,25,N,15013117:c523384484f0ae67,분당구청,공공기관,175.01512679301356,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:32,206000080,32,서현역.분당우체국,25,N,15021148:B000012463,서현고등학교,학교,436.3740901865825,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:32,206000080,32,서현역.분당우체국,25,N,15012894:92415e97518e590d,코코프라자시장,전통시장,110.87578569288965,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:32,206000080,32,서현역.분당우체국,25,N,15013205:601aa1510eb86cfe,서현역,도시철도역,127.07525900239389,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:33,206000316,33,이매촌한신.서현역.AK프라자,25,N,15012890:8c25aac485ced224,서현공원,공원 후보,484.9941865862982,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:33,206000316,33,이매촌한신.서현역.AK프라자,25,N,15012894:92415e97518e590d,코코프라자시장,전통시장,295.7775488928063,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:33,206000316,33,이매촌한신.서현역.AK프라자,25,N,15013205:601aa1510eb86cfe,서현역,도시철도역,413.4995397460285,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:34,206000315,34,이매촌금강아파트.코오롱아파트.동부아파트,25,N,15021148:B000012459,이매고등학교,학교,269.27593901970977,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:34,206000315,34,이매촌금강아파트.코오롱아파트.동부아파트,25,N,15021148:B000003740,안말초등학교,학교,313.28471668458593,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:35,206000079,35,이매촌안말초교.성지아파트,25,N,15021148:B000003763,이매초등학교,학교,397.78423523605414,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:35,206000079,35,이매촌안말초교.성지아파트,25,N,15021148:B000009209,매송중학교,학교,380.6083834312397,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:35,206000079,35,이매촌안말초교.성지아파트,25,N,15021148:B000012459,이매고등학교,학교,422.9364430338899,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:35,206000079,35,이매촌안말초교.성지아파트,25,N,15021148:B000003740,안말초등학교,학교,80.61203999972527,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:35,206000079,35,이매촌안말초교.성지아파트,25,N,15013205:e262eb86fe13fbfa,이매역,도시철도역,343.62169329936506,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:36,206000314,36,성남역.이매고교.아름마을.효성선경아파트,25,N,15021148:B000003763,이매초등학교,학교,326.51188206336246,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:36,206000314,36,성남역.이매고교.아름마을.효성선경아파트,25,N,15021148:B000009209,매송중학교,학교,156.0567872966689,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:36,206000314,36,성남역.이매고교.아름마을.효성선경아파트,25,N,15021148:B000012459,이매고등학교,학교,404.66901475507166,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:36,206000314,36,성남역.이매고교.아름마을.효성선경아파트,25,N,15021148:B000003740,안말초등학교,학교,320.43149108667575,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:36,206000314,36,성남역.이매고교.아름마을.효성선경아파트,25,N,15013205:e262eb86fe13fbfa,이매역,도시철도역,413.47846732885694,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:37,206000313,37,매송중학교.풍림아파트,25,N,15021148:B000003763,이매초등학교,학교,253.7470336817734,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:37,206000313,37,매송중학교.풍림아파트,25,N,15021148:B000009209,매송중학교,학교,101.22871797097645,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:37,206000313,37,매송중학교.풍림아파트,25,N,15013205:e262eb86fe13fbfa,이매역,도시철도역,451.96795932765673,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:38,206000440,38,아름마을.방아다리사거리,25,N,15021148:B000003763,이매초등학교,학교,393.407951912567,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:38,206000440,38,아름마을.방아다리사거리,25,N,15021148:B000009209,매송중학교,학교,356.20996040647265,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:38,206000440,38,아름마을.방아다리사거리,25,N,15021148:B000003753,성남매송초등학교,학교,273.38459516298946,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:38,206000440,38,아름마을.방아다리사거리,25,N,15021148:B000009215,이매중학교,학교,307.2287744684333,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:39,206000312,39,매송초교.아름마을,25,N,15021148:B000003753,성남매송초등학교,학교,122.17783689583756,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:39,206000312,39,매송초교.아름마을,25,N,15021148:B000009215,이매중학교,학교,203.5985669422024,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:40,206000311,40,아름마을,25,N,15021148:B000003769,하탑초등학교,학교,400.44416205322597,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:40,206000311,40,아름마을,25,N,15021148:B000003753,성남매송초등학교,학교,288.69032440047386,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:40,206000311,40,아름마을,25,N,15021148:B000009215,이매중학교,학교,359.54351495577174,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:40,206000311,40,아름마을,25,N,15021148:B000012474,태원고등학교,학교,475.5613922776248,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:41,206000271,41,탑마을대우아파트.선경아파트,25,N,15021148:B000003769,하탑초등학교,학교,272.35558519093024,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:42,206000252,42,야탑2동행정복지센터.차병원,25,N,15021148:B000003769,하탑초등학교,학교,266.13742160702105,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:42,206000252,42,야탑2동행정복지센터.차병원,25,N,15021148:B000003768,돌마초등학교,학교,326.29238081271683,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:42,206000252,42,야탑2동행정복지센터.차병원,25,N,15013205:15da31030906a19b,야탑역,도시철도역,244.49109424323203,False,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:43,206000108,43,야탑역.종합버스터미널(전면),25,N,15021148:B000003768,돌마초등학교,학교,356.1860281839581,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:43,206000108,43,야탑역.종합버스터미널(전면),25,N,15021148:B000009214,야탑중학교,학교,490.7693740929424,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:43,206000108,43,야탑역.종합버스터미널(전면),25,N,15013205:15da31030906a19b,야탑역,도시철도역,90.83752863112251,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:44,206000057,44,야탑중학교,25,N,15021148:B000003762,야탑초등학교,학교,436.75909816120105,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:44,206000057,44,야탑중학교,25,N,15021148:B000009214,야탑중학교,학교,95.0453024707369,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:44,206000057,44,야탑중학교,25,N,15021148:B000024195,성남여수초등학교,학교,369.0594662386493,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:45,205000359,45,연꽃마을4단지,25,N,15021148:B000009214,야탑중학교,학교,353.6587202878685,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:45,205000359,45,연꽃마을4단지,25,N,15021148:B000024195,성남여수초등학교,학교,141.60440123333345,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:45,205000359,45,연꽃마을4단지,25,N,15012890:955c605af7033f0f,여수지구4호(여수울)공원,공원 후보,351.78591919153683,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:46,205000360,46,여수초등학교,25,N,15021148:B000009214,야탑중학교,학교,327.4286708252174,False,False,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:46,205000360,46,여수초등학교,25,N,15021148:B000024195,성남여수초등학교,학교,76.35224703880513,True,True,True,provisional_great_circle_not_walking,unverified
+241215002,241215002:46,205000360,46,여수초등학교,25,N,15012890:955c605af7033f0f,여수지구4호(여수울)공원,공원 후보,276.8872283237625,False,True,True,provisional_great_circle_not_walking,unverified
